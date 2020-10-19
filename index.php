@@ -4,7 +4,7 @@
 	<title>gmail</title>
 </head>
 <body>
-	<form method="post">
+	<form method="post" action="index.php">
 		<input type="text" name="name" placeholder="nombre" required="">
 		<input type="email" name="email"placeholder="correo"required="">
 		<input type="text" name="asunto"placeholder="asunto"required="">
